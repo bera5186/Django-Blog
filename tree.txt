@@ -1,0 +1,40 @@
+*
+|-- blog
+|   |-- __init__.py
+|   |-- __pycache__
+|   |   |-- __init__.cpython-36.pyc
+|   |   |-- settings.cpython-36.pyc
+|   |   |-- urls.cpython-36.pyc
+|   |   `-- wsgi.cpython-36.pyc
+|   |-- settings.py
+|   |-- urls.py
+|   `-- wsgi.py
+|-- db.sqlite3
+|-- mainblog
+|   |-- __init__.py
+|   |-- __pycache__
+|   |   |-- __init__.cpython-36.pyc
+|   |   |-- admin.cpython-36.pyc
+|   |   |-- apps.cpython-36.pyc
+|   |   |-- models.cpython-36.pyc
+|   |   |-- urls.cpython-36.pyc
+|   |   `-- views.cpython-36.pyc
+|   |-- admin.py
+|   |-- apps.py
+|   |-- migrations
+|   |   |-- __init__.py
+|   |   `-- __pycache__
+|   |       `-- __init__.cpython-36.pyc
+|   |-- models.py
+|   |-- templates
+|   |   `-- mainblog
+|   |       |-- about.html
+|   |       |-- base.html
+|   |       `-- index.html
+|   |-- tests.py
+|   |-- urls.py
+|   `-- views.py
+|-- manage.py
+`-- tree.txt
+
+8 directories, 29 files
