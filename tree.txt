@@ -22,10 +22,17 @@
 |   |-- admin.py
 |   |-- apps.py
 |   |-- migrations
+|   |   |-- 0001_initial.py
 |   |   |-- __init__.py
 |   |   `-- __pycache__
+|   |       |-- 0001_initial.cpython-36.pyc
 |   |       `-- __init__.cpython-36.pyc
 |   |-- models.py
+|   |-- static
+|   |   |-- img
+|   |   |   `-- mountain.png
+|   |   `-- mainblog
+|   |       `-- main.css
 |   |-- templates
 |   |   `-- mainblog
 |   |       |-- about.html
@@ -35,6 +42,27 @@
 |   |-- urls.py
 |   `-- views.py
 |-- manage.py
-`-- tree.txt
+|-- tree.txt
+`-- users
+    |-- __init__.py
+    |-- __pycache__
+    |   |-- __init__.cpython-36.pyc
+    |   |-- admin.cpython-36.pyc
+    |   |-- apps.cpython-36.pyc
+    |   |-- models.cpython-36.pyc
+    |   `-- views.cpython-36.pyc
+    |-- admin.py
+    |-- apps.py
+    |-- migrations
+    |   |-- __init__.py
+    |   `-- __pycache__
+    |       `-- __init__.cpython-36.pyc
+    |-- models.py
+    |-- templates
+    |   `-- users
+    |       `-- register.html
+    |-- tests.py
+    |-- urls.py
+    `-- views.py
 
-8 directories, 29 files
+17 directories, 48 files
